@@ -20,7 +20,7 @@ eProject documentation at https://github.com/IbFarry/eproject1/tree/main/review
 
 ============================
 
-eProject published at https://github.com/IbFarry/eproject1/index.html
+eProject published at https://ibfarry.github.io/eproject1/index.html
 
 ============================
 
