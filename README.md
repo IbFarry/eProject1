@@ -20,11 +20,13 @@ eProject documentation at https://github.com/IbFarry/eproject1/tree/main/review
 
 ============================
 
-eProject published at https://github.com/IbFarry/eproject1
+eProject published at https://github.com/IbFarry/eproject1/index.html
 
 ============================
 
-eProject video published at https://www.youtube.com/watch?v=RK9x9RuWOzk
+
+eProject video published https://www.youtube.com/watch?v=RK9x9RuWOzk
+
 ============================
 
 Thank you for spending your time to look at our work.
